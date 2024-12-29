@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/empty.png</file>
+        <file>img/green.png</file>
+        <file>img/red.png</file>
+        <file>img/new_game.png</file>
+        <file>img/money.png</file>
+        <file>img/green_after.png</file>
+        <file>img/red_after.png</file>
+        <file>img/cashout.png</file>
+    </qresource>
+</RCC>
