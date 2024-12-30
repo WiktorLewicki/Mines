@@ -1,5 +1,7 @@
 Work time: 6h
 
+Presentation: https://youtu.be/OEVg9l1aaKY
+
 I am the sole author of the entire code. Wiktor Lewicki.
 The graphical interface was written in Qt.
 
