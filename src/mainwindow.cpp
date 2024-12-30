@@ -8,6 +8,8 @@
 #include <QVBoxLayout>
 #include <QMessageBox>
 #include <QRegularExpressionValidator>
+#include <QDialogButtonBox>
+using namespace QtCharts;
 Game gra;
 bool cl[5][5];
 std::vector<long double> history;
