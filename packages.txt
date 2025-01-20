@@ -1,4 +1,5 @@
-qt6-base-dev
+g++
+make
 qtbase5-dev qtchooser
 qt5-qmake
-libqt5charts5-dev     (qtcharts)
+libqt5charts5-dev
